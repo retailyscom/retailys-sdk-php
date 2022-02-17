@@ -1,0 +1,10 @@
+# # ArticleModelVariant
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**variant** | [**\Retailys\Model\VariantModel**](VariantModel.md) |  | [optional]
+**valueId** | **int** |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
